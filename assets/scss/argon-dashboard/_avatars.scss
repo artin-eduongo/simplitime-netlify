@@ -18,7 +18,9 @@
     img {
     	width: 100%;
     }
-
+	&:hover{
+		color: aqua;
+	}
 	&.rounded-circle {
 		img {
 			@extend .rounded-circle;

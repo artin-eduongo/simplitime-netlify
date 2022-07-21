@@ -44,3 +44,22 @@
     text-transform: capitalize;
     text-align: center;
 }
+
+
+.avatar-hover{
+    padding: 8px;
+    transition: 0.3s;
+}
+
+.avatar-hover:hover{
+    background-color: #83d1d8;
+    cursor: pointer;
+}
+
+.avatar-background{
+    background-color: #96ebdd;
+}
+
+.text-hover:hover ~ .avatar-hover{
+    background-color: #83d1d8;
+}
