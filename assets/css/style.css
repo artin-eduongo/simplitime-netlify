@@ -49,11 +49,12 @@
 .avatar-hover{
     padding: 8px;
     transition: 0.2s;
+    /* background-color: #f1f1f1; */
 }
 
 .avatar-hover:hover{
     /* background-color: #83d1d8; */
-    background-color: #d0e9eb;
+    background-color: #e4f2f3;
 
     cursor: pointer;
 }
@@ -63,7 +64,7 @@
 }
 
 .avatar-background2{
-    background-color: #96ebdd;
+    background-color: #c4faf1;
 }
 
 
