@@ -20166,8 +20166,8 @@ fieldset:disabled .btn {
   justify-content: center;
   font-size: 1rem;
   border-radius: 0.75rem;
-  height: 65px;
-  width: 65px;
+  height: 55px;
+  width: 55px;
   transition: all .2s ease-in-out;
 }
 
